@@ -1,0 +1,72 @@
+C:\Users\Nazik\source\repos\SQLiteApp\SQLiteApp\bin\Debug\Personnel.db
+C:\Users\Nazik\source\repos\SQLiteApp\SQLiteApp\bin\Debug\SQLiteApp.exe.config
+C:\Users\Nazik\source\repos\SQLiteApp\SQLiteApp\bin\Debug\SQLiteApp.exe
+C:\Users\Nazik\source\repos\SQLiteApp\SQLiteApp\bin\Debug\SQLiteApp.pdb
+C:\Users\Nazik\source\repos\SQLiteApp\SQLiteApp\bin\Debug\EntityFramework.dll
+C:\Users\Nazik\source\repos\SQLiteApp\SQLiteApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nazik\source\repos\SQLiteApp\SQLiteApp\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Nazik\source\repos\SQLiteApp\SQLiteApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\Nazik\source\repos\SQLiteApp\SQLiteApp\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Nazik\source\repos\SQLiteApp\SQLiteApp\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Nazik\source\repos\SQLiteApp\SQLiteApp\bin\Debug\EntityFramework.xml
+C:\Users\Nazik\source\repos\SQLiteApp\SQLiteApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nazik\source\repos\SQLiteApp\SQLiteApp\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Nazik\source\repos\SQLiteApp\SQLiteApp\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Nazik\source\repos\SQLiteApp\SQLiteApp\bin\Debug\System.Data.SQLite.xml
+C:\Users\Nazik\source\repos\SQLiteApp\SQLiteApp\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Nazik\source\repos\SQLiteApp\SQLiteApp\obj\Debug\AddOrEditCompanyWindow.g.cs
+C:\Users\Nazik\source\repos\SQLiteApp\SQLiteApp\obj\Debug\EmployeesWindow.g.cs
+C:\Users\Nazik\source\repos\SQLiteApp\SQLiteApp\obj\Debug\MainWindow.g.cs
+C:\Users\Nazik\source\repos\SQLiteApp\SQLiteApp\obj\Debug\App.g.cs
+C:\Users\Nazik\source\repos\SQLiteApp\SQLiteApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nazik\source\repos\SQLiteApp\SQLiteApp\obj\Debug\SQLiteApp_MarkupCompile.cache
+C:\Users\Nazik\source\repos\SQLiteApp\SQLiteApp\obj\Debug\SQLiteApp_MarkupCompile.lref
+C:\Users\Nazik\source\repos\SQLiteApp\SQLiteApp\obj\Debug\AddOrEditCompanyWindow.baml
+C:\Users\Nazik\source\repos\SQLiteApp\SQLiteApp\obj\Debug\EmployeesWindow.baml
+C:\Users\Nazik\source\repos\SQLiteApp\SQLiteApp\obj\Debug\MainWindow.baml
+C:\Users\Nazik\source\repos\SQLiteApp\SQLiteApp\obj\Debug\SQLiteApp.g.resources
+C:\Users\Nazik\source\repos\SQLiteApp\SQLiteApp\obj\Debug\SQLiteApp.Properties.Resources.resources
+C:\Users\Nazik\source\repos\SQLiteApp\SQLiteApp\obj\Debug\SQLiteApp.csproj.GenerateResource.cache
+C:\Users\Nazik\source\repos\SQLiteApp\SQLiteApp\obj\Debug\SQLiteApp.csproj.CoreCompileInputs.cache
+C:\Users\Nazik\source\repos\SQLiteApp\SQLiteApp\obj\Debug\SQLiteApp.csproj.CopyComplete
+C:\Users\Nazik\source\repos\SQLiteApp\SQLiteApp\obj\Debug\SQLiteApp.exe
+C:\Users\Nazik\source\repos\SQLiteApp\SQLiteApp\obj\Debug\SQLiteApp.pdb
+C:\Users\Nazik\source\repos\SQLiteApp\SQLiteApp\obj\Debug\SQLiteApp.csprojAssemblyReference.cache
+C:\Users\Nazik\source\repos\SQLiteApp\SQLiteApp\obj\Debug\AddOrEditEmployeeWindow.g.cs
+C:\Users\Nazik\source\repos\SQLiteApp\SQLiteApp\obj\Debug\AddOrEditEmployeeWindow.baml
+C:\Users\Nazik\source\repos\SQLiteApp — копия\SQLiteApp\bin\Debug\Personnel.db
+C:\Users\Nazik\source\repos\SQLiteApp — копия\SQLiteApp\bin\Debug\SQLiteApp.exe.config
+C:\Users\Nazik\source\repos\SQLiteApp — копия\SQLiteApp\bin\Debug\SQLiteApp.exe
+C:\Users\Nazik\source\repos\SQLiteApp — копия\SQLiteApp\bin\Debug\SQLiteApp.pdb
+C:\Users\Nazik\source\repos\SQLiteApp — копия\SQLiteApp\bin\Debug\EntityFramework.dll
+C:\Users\Nazik\source\repos\SQLiteApp — копия\SQLiteApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nazik\source\repos\SQLiteApp — копия\SQLiteApp\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Nazik\source\repos\SQLiteApp — копия\SQLiteApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\Nazik\source\repos\SQLiteApp — копия\SQLiteApp\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Nazik\source\repos\SQLiteApp — копия\SQLiteApp\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Nazik\source\repos\SQLiteApp — копия\SQLiteApp\bin\Debug\EntityFramework.xml
+C:\Users\Nazik\source\repos\SQLiteApp — копия\SQLiteApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nazik\source\repos\SQLiteApp — копия\SQLiteApp\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Nazik\source\repos\SQLiteApp — копия\SQLiteApp\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Nazik\source\repos\SQLiteApp — копия\SQLiteApp\bin\Debug\System.Data.SQLite.xml
+C:\Users\Nazik\source\repos\SQLiteApp — копия\SQLiteApp\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Nazik\source\repos\SQLiteApp — копия\SQLiteApp\obj\Debug\AddOrEditCompanyWindow.g.cs
+C:\Users\Nazik\source\repos\SQLiteApp — копия\SQLiteApp\obj\Debug\AddOrEditEmployeeWindow.g.cs
+C:\Users\Nazik\source\repos\SQLiteApp — копия\SQLiteApp\obj\Debug\EmployeesWindow.g.cs
+C:\Users\Nazik\source\repos\SQLiteApp — копия\SQLiteApp\obj\Debug\MainWindow.g.cs
+C:\Users\Nazik\source\repos\SQLiteApp — копия\SQLiteApp\obj\Debug\App.g.cs
+C:\Users\Nazik\source\repos\SQLiteApp — копия\SQLiteApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nazik\source\repos\SQLiteApp — копия\SQLiteApp\obj\Debug\SQLiteApp_MarkupCompile.cache
+C:\Users\Nazik\source\repos\SQLiteApp — копия\SQLiteApp\obj\Debug\SQLiteApp_MarkupCompile.lref
+C:\Users\Nazik\source\repos\SQLiteApp — копия\SQLiteApp\obj\Debug\AddOrEditCompanyWindow.baml
+C:\Users\Nazik\source\repos\SQLiteApp — копия\SQLiteApp\obj\Debug\AddOrEditEmployeeWindow.baml
+C:\Users\Nazik\source\repos\SQLiteApp — копия\SQLiteApp\obj\Debug\EmployeesWindow.baml
+C:\Users\Nazik\source\repos\SQLiteApp — копия\SQLiteApp\obj\Debug\MainWindow.baml
+C:\Users\Nazik\source\repos\SQLiteApp — копия\SQLiteApp\obj\Debug\SQLiteApp.g.resources
+C:\Users\Nazik\source\repos\SQLiteApp — копия\SQLiteApp\obj\Debug\SQLiteApp.Properties.Resources.resources
+C:\Users\Nazik\source\repos\SQLiteApp — копия\SQLiteApp\obj\Debug\SQLiteApp.csproj.GenerateResource.cache
+C:\Users\Nazik\source\repos\SQLiteApp — копия\SQLiteApp\obj\Debug\SQLiteApp.csproj.CoreCompileInputs.cache
+C:\Users\Nazik\source\repos\SQLiteApp — копия\SQLiteApp\obj\Debug\SQLiteApp.csproj.CopyComplete
+C:\Users\Nazik\source\repos\SQLiteApp — копия\SQLiteApp\obj\Debug\SQLiteApp.exe
+C:\Users\Nazik\source\repos\SQLiteApp — копия\SQLiteApp\obj\Debug\SQLiteApp.pdb
+C:\Users\Nazik\source\repos\SQLiteApp — копия\SQLiteApp\obj\Debug\SQLiteApp.csprojAssemblyReference.cache
